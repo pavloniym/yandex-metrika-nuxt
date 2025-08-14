@@ -1,5 +1,27 @@
 # Changelog
 
+## [1.2.0](https://github.com/pavloniym/yandex-metrika-nuxt/compare/v1.1.0...v1.2.0) (2025-08-14)
+
+
+### Features
+
+* Added support for nuxt 4.x, updated dependencies ([5264870](https://github.com/pavloniym/yandex-metrika-nuxt/commit/526487039594ad6a08251a3d8218c9577b0b7678))
+* Added support for nuxt 4.x, updated dependencies ([4eb41b4](https://github.com/pavloniym/yandex-metrika-nuxt/commit/4eb41b4612e39e98ddb4524d3cb792818770f9e2))
+* Added support for nuxt 4.x, updated dependencies ([7d95a92](https://github.com/pavloniym/yandex-metrika-nuxt/commit/7d95a92379fa2a30793eae62b9694f24d3e31259))
+* fixed nuxt 4 build ([50c0b18](https://github.com/pavloniym/yandex-metrika-nuxt/commit/50c0b18c97b5662cb1803809f53cafcc5ef6ce55))
+* Updated the Nuxt to 3.14+ version, added experiments feature of yandex.metrika ([0d2aaab](https://github.com/pavloniym/yandex-metrika-nuxt/commit/0d2aaabfb4e1f8ceb9210ceeeff3a7d7198bbf3b))
+
+
+### Bug Fixes
+
+* Added support for runtiveConfig from envs ([8c80626](https://github.com/pavloniym/yandex-metrika-nuxt/commit/8c80626616f95a31e0873d3725b23956a4b445b1))
+* change the consola package import ([7a43b95](https://github.com/pavloniym/yandex-metrika-nuxt/commit/7a43b95aec70d84da65b663c464fc73f1acb4c10))
+* Fix initialize for non ssr mode, remove plugin in dev mode ([c38d75e](https://github.com/pavloniym/yandex-metrika-nuxt/commit/c38d75e03ed45b26949fc6f396a677dd7577c6c3))
+* initial ([3aa2e02](https://github.com/pavloniym/yandex-metrika-nuxt/commit/3aa2e02c12d036ca1b38801cacfd249d96728fa5))
+* **Lib:** fixed readme ([e3e921d](https://github.com/pavloniym/yandex-metrika-nuxt/commit/e3e921d88156efe3d6868609cf99098bc97c260c))
+* overload ts function, action types ([7699bab](https://github.com/pavloniym/yandex-metrika-nuxt/commit/7699bab9e904a9083e80882ee984fcc6489f46ee))
+* Remove unnecessary code from playground ([5352cb6](https://github.com/pavloniym/yandex-metrika-nuxt/commit/5352cb699c82b813c8eeed7419c3746ad09c9176))
+
 ## [1.1.0](https://github.com/artmizu/yandex-metrika-nuxt/compare/v1.0.4...v1.1.0) (2025-01-15)
 
 
